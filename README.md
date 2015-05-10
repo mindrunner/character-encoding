@@ -1,5 +1,5 @@
 # character-encoding
-Character encoding - a fundamental part of software internationalisation
+## Character encoding - a fundamental part of software internationalisation
 
   Software constructed for the global market must be aware of regional
   differences, such as different languages, culture dependent formatting and
